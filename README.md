@@ -1,2 +1,3 @@
-# NO
-A
+<?php
+echo"wahahha"
+?>
